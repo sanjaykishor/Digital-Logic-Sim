@@ -1,4 +1,6 @@
 # Digital-Logic-Sim
+Please note that I won't be accepting pull requests at the moment, but you're welcome to create your own fork of the project, or contribute to some of the awesome [community versions](https://github.com/SebLague/Misc-Project-Info/blob/main/Digital-Logic-Sim/Community%20Versions.md). If you plan on distributing your version, please make sure that it's following these [guidelines](https://github.com/SebLague/Misc-Project-Info/blob/main/Digital-Logic-Sim/Fork%20Guidelines.md).
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/SebLague/Images/master/Exploring%20how%20computers%20work.jpg)](http://www.youtube.com/watch?v=QZwneRb-zqA)
 
 # License
 This work is licensed under a
